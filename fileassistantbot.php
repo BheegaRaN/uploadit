@@ -7,7 +7,7 @@
  * Based on MadelineProto
  * https://github.com/danog/MadelineProto
  * By TheDarkW3b
- * https://t.me/TheDarkW3b
+ * https://t.me/Njan_ORu_BheegaRaN
  */
 define('FILES_PATH', __DIR__.'/files');
 define('WEBSERVER_BASE_URL', 'yourdomain.com');
